@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADV Body Fit",
-    "currentPage": "adv.html",
+    "currentPage": "inicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,10 +43,10 @@
     "siteUrl": "undefined"
   },
   "pages": {
-    "adv.html": {
+    "inicio.html": {
       "settings": {
         "main": true,
-        "title": "adv",
+        "title": "inicio",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
